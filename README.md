@@ -38,4 +38,5 @@ Not sure where to begin? Try our [Ruby Starter Kit](./starters/interviewbot.rb) 
 - **Suggest a question**: Do you have ideas for other questions Interviewbot should ask? Send us a pull request with your ideas. If we like them, we'll add them to interviewbot's list.
 
 
-More about Interviewbot here: https://noopschallenge.com/challenges/interviewbot
+More about Interviewbot [noopschallenge.com](https://noopschallenge.com/challenges/interviewbot).
+
